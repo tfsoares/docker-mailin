@@ -1,1 +1,1 @@
-# docker-mailin
+# Docker image for Mailin
